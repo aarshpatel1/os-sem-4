@@ -2,10 +2,6 @@
 
 ## Answer the short questions:
 
-Here are concise pointwise answers to your short questions:
-
----
-
 ### **1. What is the use of the `sudo` command in Linux?**
 
 - Allows a permitted user to execute commands as a superuser or another user.
